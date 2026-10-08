@@ -5,7 +5,7 @@ This account is to show my coding work within projects/research that I'm working
 
 When I'm not working I enjoy reading or going for a SCUBA dive.
 
-Hope you enjoy my work! 🧚
+Hope you enjoy!
 <!--
 **nrmouer/nrmouer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
