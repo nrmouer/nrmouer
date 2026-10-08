@@ -1,5 +1,11 @@
 ## Hi there 👋
+My name is Nora, I am currently a Masters student studying Marine Biology at James Cook University. 🌊
 
+This account is to show my coding work within projects/research that I'm working on. As well as practice code for practising wrangling large scientific datasets.
+
+When I'm not working I enjoy reading or going for a SCUBA dive.
+
+Hope you enjoy my work! 🧚
 <!--
 **nrmouer/nrmouer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
