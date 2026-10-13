@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Nora, I am currently a Masters student studying Marine Biology at James Cook University. 🌊
+My name is Nora, I am currently a masters student studying Marine Biology at James Cook University. 🌊
 
 This account is to show my coding work within projects/research that I'm working on. As well as practice code for practising wrangling large scientific datasets.
 
